@@ -1,0 +1,3 @@
+Inner hops definition,1
+False,True
+nicolaasburgers
