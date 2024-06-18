@@ -1,0 +1,7 @@
+Outer hops definition,1
+False,True
+nicolaasburgers
+N:
+inner_hops_definition,Inner hops definition,1
+P:
+Hops,0.16.2.0
