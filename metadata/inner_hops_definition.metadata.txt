@@ -1,3 +1,7 @@
-Inner hops definition,1
+Inner hops definition,2
 False,True
 nicolaasburgers
+N:
+subtract,Subtract,1
+hops_test_divide,Hops Test Divide,1
+hops_test_multiply,Hops Test Multiply,1
