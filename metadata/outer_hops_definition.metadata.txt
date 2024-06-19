@@ -1,7 +1,11 @@
-Outer hops definition,1
+Outer hops definition,2
 False,True
 nicolaasburgers
 N:
-inner_hops_definition,Inner hops definition,1
+hops_test_absolute,Hops Test Absolute,1
+inner_hops_definition,Inner hops definition,2
+subtract,Subtract,1
+hops_test_divide,Hops Test Divide,1
+hops_test_multiply,Hops Test Multiply,1
 P:
-Hops,0.16.2.0
+Hops,0.16.8.0
