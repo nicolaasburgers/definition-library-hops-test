@@ -1,0 +1,7 @@
+Hops Test Divide,1
+True,False
+nicolaasburgers
+C:
+Divide
+O:
+outer_hops_definition,Outer hops definition,1
