@@ -1,8 +1,12 @@
-Hops Top Doc,1
+Hops Top Doc,2
 False,False
 nicolaasburgers
 N:
-hopstesth2,HopsTestH2,1
+outer_hops_definition,Outer hops definition,3
+hops_test_absolute,Hops Test Absolute,1
 inner_hops_definition,Inner hops definition,2
+subtract,Subtract,1
+hops_test_divide,Hops Test Divide,1
+hops_test_multiply,Hops Test Multiply,1
 P:
 Hops,0.16.8.0
