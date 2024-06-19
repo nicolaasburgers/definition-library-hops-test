@@ -1,0 +1,5 @@
+Hops Test Absolute,1
+True,False
+nicolaasburgers
+O:
+outer_hops_definition,Outer hops definition,1
