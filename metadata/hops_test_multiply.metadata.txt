@@ -1,0 +1,7 @@
+Hops Test Multiply,1
+True,False
+nicolaasburgers
+C:
+Multiply
+O:
+outer_hops_definition,Outer hops definition,1
